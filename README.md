@@ -2,7 +2,7 @@
 
 Marketing Data Analyst en reconversion | SQL | Power BI | Python | Passionné par la transformation des données marketing en insights actionnables
 
-🔗 [LinkedIn](https://www.linkedin.com/in/malcom-closse/) | 📧 malcom.closse@example.com
+🔗 [LinkedIn](https://www.linkedin.com/in/malcom-closse/) | 📧 malcom.closse@outlook.fr
 
 ---
 
