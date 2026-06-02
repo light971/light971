@@ -26,17 +26,15 @@ Fort d'une expérience en gestion de campagnes marketing et optimisation du traf
 
 ## 📂 Projets phares
 
-### 📊 [Projet Netflix Dataset](https://github.com/light971/Projet_Netflix)
-- Analyse d'un dataset Netflix pour identifier les tendances de visionnage et recommander des stratégies de contenu.  
-- **Outils utilisés** : Python (pandas, matplotlib), SQL  
+### 🛒 [Retail Store Sales Analysis](https://github.com/light971/Retail-Store-Sales)
+- **Objectif** : Analyse approfondie des données de vente d'un commerce de détail pour identifier les tendances de consommation, évaluer la performance des produits et optimiser la gestion des stocks.
+- **Impact** : Création de visualisations et de rapports clés pour transformer les données brutes de vente en indicateurs de performance (KPIs) exploitables par les équipes business.
+- **Outils** : ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=black)
 
-### 🛒 [Analyse des ventes au détail](https://github.com/light971/sql_retail_sales_p1)
-- Analyse des ventes pour identifier les produits performants et optimiser les stratégies de stock.  
-- **Outils utilisés** : SQL, Power BI  
-
-### 📚 [Système de gestion de bibliothèque](https://github.com/light971/Library_Systems_Managment_p2)
-- Développement d’un système de gestion pour améliorer l’efficacité des prêts et retours de livres.  
-- **Outils utilisés** : Python, SQL  
+### 📊 [Bank Marketing Campaign Evaluation](https://github.com/light971/Bank-Marketing-Campaign)
+- **Objectif** : Analyse de la performance d'une campagne de marketing direct bancaire afin de comprendre les facteurs clés influençant la conversion et la souscription des clients.
+- **Impact** : Segmentation de l'audience et identification des profils clients les plus réceptifs pour maximiser le ROI des futures campagnes marketing.
+- **Outils** : ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 
 ---
 
