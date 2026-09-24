@@ -26,9 +26,13 @@ Analyse de 156 000 lignes de ventes hebdomadaires (2022-2024) pour identifier le
 `Python` `PostgreSQL` `Schéma en étoile` `Power BI`
  
 ### 📞 [Bank Marketing Campaign](https://github.com/light971/Bank-Marketing-Campaign) : prioriser les leads d'une campagne de télémarketing
- 
-Analyse de 11 162 contacts clients pour identifier les profils qui convertissent, le bon moment pour appeler et le seuil de relances au-delà duquel la campagne devient contre-productive. Scoring de propension et segmentation des leads en trois niveaux (chaud / tiède / froid).
- 
+
+Analyse de 11 162 contacts clients et construction d'un scoring de propension pour décider qui appeler en priorité.
+
+- Les **30 % de leads les mieux scorés concentrent 52 %** des conversions (Gradient Boosting, AUC = 0,78)
+- Détection d'une **fuite de données** : la durée d'appel, connue seulement après l'appel, gonflait artificiellement le modèle (AUC 0,92 → 0,78 après correction)
+- Les anciens souscripteurs convertissent à **91 %** ; au-delà de 3 relances, la conversion chute
+
 `Python` `SQL` `Scikit-learn` `Power BI`
  
 ### 🌴 [Cuisine Caribéenne Atlas](https://cuisine-caribeenne-atlas.fr) : site éditorial SEO & GEO (projet en ligne)
