@@ -27,7 +27,7 @@ Analyse de 156 000 lignes de ventes hebdomadaires (2022-2024) pour identifier le
  
 ### 📞 [Bank Marketing Campaign](https://github.com/light971/Bank-Marketing-Campaign) : prioriser les leads d'une campagne de télémarketing
  
-Analyse de 45 211 contacts clients pour identifier les profils qui convertissent, le bon moment pour appeler et le seuil de relances au-delà duquel la campagne devient contre-productive. Scoring de propension et segmentation des leads en trois niveaux (chaud / tiède / froid).
+Analyse de 11 162 contacts clients pour identifier les profils qui convertissent, le bon moment pour appeler et le seuil de relances au-delà duquel la campagne devient contre-productive. Scoring de propension et segmentation des leads en trois niveaux (chaud / tiède / froid).
  
 `Python` `SQL` `Scikit-learn` `Power BI`
  
